@@ -7,6 +7,7 @@ public class Enemy {
     public void attack(){
 
         //ini keterangan
+        //tes samuel
         System.out.println("Serang!!!");
         System.out.println("Serang!!!");
         System.out.println("Serang!!!");
