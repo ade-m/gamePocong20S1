@@ -6,6 +6,7 @@ public class Pocong extends Enemy{
     public void attack(){
         super.attack();
         super.hp-=1;
+        //ini keterangan
     }
     public void jump(){
         System.out.println("Pocong Loncat - loncat");

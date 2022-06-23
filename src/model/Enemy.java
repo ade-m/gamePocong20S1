@@ -5,6 +5,10 @@ public class Enemy {
     int hp;
     int attackPoin;
     public void attack(){
+
+        //ini keterangan
+        System.out.println("Serang!!!");
+        System.out.println("Serang!!!");
         System.out.println("Serang!!!");
     }
 }
