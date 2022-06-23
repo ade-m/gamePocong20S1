@@ -8,6 +8,7 @@ public class Enemy {
             //tambahan
         //ini keterangan
         //tes samuel
+        //kelas 21SI1
         System.out.println("Serang!!!");
         System.out.println("Serang!!!");
         System.out.println("Serang!!!");
