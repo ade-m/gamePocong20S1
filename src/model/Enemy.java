@@ -8,7 +8,5 @@ public class Enemy {
 
         //ini keterangan
         System.out.println("Serang!!!");
-        System.out.println("Serang!!!");
-        System.out.println("Serang!!!");
     }
 }
